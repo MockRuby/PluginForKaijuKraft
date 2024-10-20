@@ -391,7 +391,7 @@ GameObject:
   - component: {fileID: 431086271}
   - component: {fileID: 431086275}
   m_Layer: 0
-  m_Name: Cube (6)
+  m_Name: a kaiju
   m_TagString: Kaiju
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
